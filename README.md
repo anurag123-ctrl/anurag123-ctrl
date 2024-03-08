@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://anurag123-ctrl.github.io/personal-portfolio/images/pic.jpg"  />
 </div>
-<img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" width=200 alt="coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 ###
 
