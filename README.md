@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/itz._anuuu?igsh=ntc4mtiwnjq2yq==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <img align="right" width=200 alt="coding" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 </div>
 
 ###
