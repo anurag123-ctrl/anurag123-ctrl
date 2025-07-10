@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react , nodejs , saas**
 
-- 📫 How to reach me **vishalg1938@gmail.com**
+- 📫 How to reach me **anuragkas29@gmail.com**
 
 - ⚡ Fun fact **I am funny 😎**
 
